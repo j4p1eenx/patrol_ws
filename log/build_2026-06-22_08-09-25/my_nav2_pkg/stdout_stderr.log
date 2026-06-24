@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing my_nav2_pkg.egg-info/PKG-INFO
+writing dependency_links to my_nav2_pkg.egg-info/dependency_links.txt
+writing entry points to my_nav2_pkg.egg-info/entry_points.txt
+writing requirements to my_nav2_pkg.egg-info/requires.txt
+writing top-level names to my_nav2_pkg.egg-info/top_level.txt
+reading manifest file 'my_nav2_pkg.egg-info/SOURCES.txt'
+writing manifest file 'my_nav2_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /root/ros2_ws/install/my_nav2_pkg/lib/python3.10/site-packages/my-nav2-pkg.egg-link (link to .)
+Installing patrol_node script to /root/ros2_ws/install/my_nav2_pkg/lib/my_nav2_pkg
+
+Installed /root/ros2_ws/build/my_nav2_pkg
+running symlink_data
