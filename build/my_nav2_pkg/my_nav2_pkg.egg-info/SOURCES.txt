@@ -7,6 +7,7 @@ maps/my_map.pgm
 maps/my_map.yaml
 my_nav2_pkg/__init__.py
 my_nav2_pkg/patrol_node.py
+my_nav2_pkg/vision_node.py
 my_nav2_pkg.egg-info/PKG-INFO
 my_nav2_pkg.egg-info/SOURCES.txt
 my_nav2_pkg.egg-info/dependency_links.txt
