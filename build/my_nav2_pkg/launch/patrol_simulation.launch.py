@@ -1,0 +1,1 @@
+/root/ros2_ws/src/my_nav2_pkg/launch/patrol_simulation.launch.py
