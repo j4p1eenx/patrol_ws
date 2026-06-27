@@ -1,2 +1,0 @@
-Invoking command in '/home/japleen/ros2_ws/src/cpp_pubsub/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/japleen/ros2_ws/src/cpp_pubsub -DCMAKE_INSTALL_PREFIX=/home/japleen/ros2_ws/src/cpp_pubsub/install/cpp_pubsub
-Invoked command in '/home/japleen/ros2_ws/src/cpp_pubsub/build/cpp_pubsub' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/japleen/ros2_ws/src/cpp_pubsub -DCMAKE_INSTALL_PREFIX=/home/japleen/ros2_ws/src/cpp_pubsub/install/cpp_pubsub
