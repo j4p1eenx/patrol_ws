@@ -17,7 +17,7 @@ A professional, containerized ROS 2 Humble workspace featuring an Autonomous Mob
 The video player below displays the complete autonomous navigation lifecycle: interactive AMCL localization, custom waypoint mapping trackers, computer vision object flags, and immediate path re-planning state machines:
 
 <p align="center">
-  <video src="demo_recording.mp4" width="100%" controls autoplay loop muted>
+  <video src="https://github.com/j4p1eenx/patrol_ws/raw/main/demo_recording.mp4" width="100%" controls autoplay loop muted>
     Your browser does not support the video tag.
   </video>
   <br>
