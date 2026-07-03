@@ -8,6 +8,12 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
+
+      - name: Setup ROS 2 Environment
+        uses: ros-tooling/setup-ros@v0.7
+        with:
+          required-ros-distributions: humble
+
       - name: Run ROS 2 CI Action
         uses: ros-tooling/action-ros-ci@v0.3
         with:
