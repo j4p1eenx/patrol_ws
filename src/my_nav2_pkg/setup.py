@@ -36,6 +36,7 @@ setup(
         'console_scripts': [
             'patrol_node = my_nav2_pkg.patrol_node:main',
             'vision_node = my_nav2_pkg.vision_node:main',
+            'home_commander = my_nav2_pkg.home_commander:main',
         ],
     },
 )
